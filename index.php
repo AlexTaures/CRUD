@@ -46,4 +46,4 @@ include './styles/style.php';
 
 
 
-
+<img src="https://assets.weforum.org/editor/O5YKNDWt-3B-7qmh27fxiyvYuFKfm3y0uBXWCIx4vJw.png" alt="image not found" style="margin-bottom: 25px; margin-left: 25px; width: 50%; height: 50%; position:relative;">

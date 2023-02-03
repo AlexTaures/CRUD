@@ -1,3 +1,8 @@
 NOTA: 9
 Debo de crear una carpeta "Services" para poner las consultas a nivel local, como lo fueron la lista de vuelo, y los paises.
 Debo de usar siempre el .css, se supone que funciona siempre con el include.
+El id debe de resetearse cada que borre un dato
+
+
+TODA LA PARTE LOGICA DEBE IR EN EL CONTROLADOR
+EN EL MODELO SOLO EL MAMEJO DE DATOS
